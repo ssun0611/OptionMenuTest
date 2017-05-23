@@ -5,18 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:id="@+id/linear"
     tools:context="rlathfdl463.kr.hs.emirim.optionmenutest.MainActivity">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="나브이~"
-   />
 
     <Button
         android:id="@+id/but_ok"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="김성철 지구 뿌셔"/>
+        android:text="김성철 지구 뿌셔"
+        android:background="#ffcece"/>
 
 </LinearLayout>
